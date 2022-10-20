@@ -1,9 +1,9 @@
 # To display the Fibonacci
 
-Fiboterms = int(input("How many terms? "))
+Fiboterms = int(input("Enter the number of Fibo terms? "))
 
 # the ten terms
-fib1, fib2, fib3, fib4, fib5, fib6, fib7, fib8, fib9, fib10 = 0, 1,1,2,3,5,8,13,21,34
+fib1, fib2, fib3, fib4, fib5, fib6, fib7, fib8, fib9, fib10 = 0,1,1,2,3,5,8,13,21,34
 count = 0
 
 if Fiboterms <= 0:
